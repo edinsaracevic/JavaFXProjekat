@@ -1,0 +1,6 @@
+org\edin\PrimaryController.class
+org\edin\model\Contract.class
+org\edin\App.class
+module-info.class
+org\edin\AlertMessage.class
+org\edin\parser\XMLParser.class
